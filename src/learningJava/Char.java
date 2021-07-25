@@ -1,6 +1,11 @@
 package learningJava;
 
 public class Char {
+	private void greens() {
+		System.out.println("please kapathunga");
+
+	}
+	
  public static void main(String[] args) {
 	char myChar='d';
 	char myUnicodeChar= '\u00A9';
@@ -25,4 +30,6 @@ public class Char {
 		System.out.println("Got Some Remainder");
 	
 }
+
+ 
 }
